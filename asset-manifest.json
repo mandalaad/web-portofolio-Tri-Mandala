@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/web-portofolio-Tri-Mandala/static/css/main.eb1997e4.css",
-    "main.js": "/web-portofolio-Tri-Mandala/static/js/main.4d06492f.js",
+    "main.css": "/web-portofolio-Tri-Mandala/static/css/main.dbc9ae4b.css",
+    "main.js": "/web-portofolio-Tri-Mandala/static/js/main.883ae314.js",
     "static/media/20220127_043450.jpg": "/web-portofolio-Tri-Mandala/static/media/20220127_043450.67c6abcc8948fa0e0d69.jpg",
+    "static/media/IMG_20220225_215718_191.jpg": "/web-portofolio-Tri-Mandala/static/media/IMG_20220225_215718_191.34c81b0c46740606664c.jpg",
     "index.html": "/web-portofolio-Tri-Mandala/index.html",
-    "main.eb1997e4.css.map": "/web-portofolio-Tri-Mandala/static/css/main.eb1997e4.css.map",
-    "main.4d06492f.js.map": "/web-portofolio-Tri-Mandala/static/js/main.4d06492f.js.map"
+    "main.dbc9ae4b.css.map": "/web-portofolio-Tri-Mandala/static/css/main.dbc9ae4b.css.map",
+    "main.883ae314.js.map": "/web-portofolio-Tri-Mandala/static/js/main.883ae314.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb1997e4.css",
-    "static/js/main.4d06492f.js"
+    "static/css/main.dbc9ae4b.css",
+    "static/js/main.883ae314.js"
   ]
 }
